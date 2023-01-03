@@ -1,0 +1,16 @@
+{
+  "name": "Stox",
+  "slug": "stox",
+  "date": "2020-06-15",
+  "highlight": "Easy to use, mobile all-asset portfolio tracker with Avalanche NFT, DeFi and subnet support.",
+  "logo": "/img/stox.png",
+  "tags": ["dashboard", "portfolio", "wealth management", "utility"],
+  "status": "live",
+  "website": "https://www.stox.app/",
+  "twitter": "https://twitter.com/getstox",
+  "telegram": "",
+  "summary": "Stox is your mobile go-to portfolio tracker for both on-chain and off-chain assets. Apart from tracking the contents and value of your cryptoasset and equity investment accounts and wallets, you can also see profit and loss, cost basis and other financial metrics. Stox supports automated imports from major brokerages and exchanges, EVM wallets, and also manual entries. With a heavy focus on the Avalanche ecosystem, you can track your Avalanche NFT collection, DeFi investments, GameFi assets on DFK and Crabada in addition to your tokens.",
+  "discord": "",
+  "docs":"",
+  "github":""
+}
